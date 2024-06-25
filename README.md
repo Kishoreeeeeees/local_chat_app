@@ -28,7 +28,7 @@ Before running the application, ensure you have the following installed:
 ### Backend Setup (Node.js + Express.js)
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <git@github.com:Kishoreeeeeees/local_chat_app.git>
    cd local-chat-app/backend
    ```
 
